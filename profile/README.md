@@ -1,6 +1,9 @@
 # Cheju Halla University Artificial Intelligence Engineering 
 
-Lecture notes can be found at the below site.
+Lecture notes can be found at the below sites.
+
+- [Courses](https://course.entelecheia.ai)
+- [Lecture Notes](https://lecture.entelecheia.ai)
 
 ## [eKonomic Research Python Toolkit](https://entelecheia.github.io/ekorpkit-book)
 
